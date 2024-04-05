@@ -1,1 +1,1 @@
-![Data_logo](/assets/so_data_white.png)
+![Data_logo](/docs/assets/so_data_white.png)
