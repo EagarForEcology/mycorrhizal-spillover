@@ -1,3 +1,4 @@
+![ECM_C](/docs/assets/ECM_Panel_C.png)
 Agerer, R. (2001). Exploration types of ectomycorrhizae: a proposal to classify ectomycorrhizal mycelial systems according to their patterns of differentiation and putative ecological importance. Mycorrhiza, 11, 107-114.
 https://link.springer.com/content/pdf/10.1007/s005720100108.pdf
 
