@@ -1,5 +1,4 @@
 ![AM_Panel_A](/docs/assets/AM Panel A.png)
-![Data_logo](/docs/assets/Eagar_paths.png)
 Smith, G.R., Finlay, R.D., Stenlid, J., Vasaitis, R. and Menkis, A., 2017. Growing evidence for facultative biotrophy in saprotrophic fungi: data from microcosm tests with 201 species of wood‐decay basidiomycetes. New Phytologist, 215(2), pp.747-755.
 https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.14551
 
