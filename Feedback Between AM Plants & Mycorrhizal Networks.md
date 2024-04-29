@@ -1,3 +1,4 @@
+![AM_C](/docs/assets/AM_Panel_C.png)
 Chen, W., Koide, R.T., Adams, T.S., DeForest, J.L., Cheng, L. and Eissenstat, D.M., 2016. Root morphology and mycorrhizal symbioses together shape nutrient foraging strategies of temperate trees. Proceedings of the National Academy of Sciences, 113(31), pp.8741-8746.
 https://www.pnas.org/syndication/doi/10.1073/pnas.1601006113
 
