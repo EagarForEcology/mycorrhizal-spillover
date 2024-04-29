@@ -1,3 +1,4 @@
+![ECM_A](/docs/assets/ECM_Panel_A.png)
 Averill, C. and Hawkes, C.V., 2016. Ectomycorrhizal fungi slow soil carbon cycling. Ecology letters, 19(8), pp.937-947.
 https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.12631
 
