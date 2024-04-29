@@ -1,4 +1,4 @@
-![AM_A](/docs/assets/AM Panel A.png)
+![AM_A](/docs/assets/AM_Panel_A.png)
 Bahram, M., Netherway, T., Hildebrand, F., Pritsch, K., Drenkhan, R., Loit, K., Anslan, S., Bork, P. and Tedersoo, L., 2020. Plant nutrient‐acquisition strategies drive topsoil microbiome structure and function. New Phytologist, 227(4), pp.1189-1199.
 https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.16598
 
