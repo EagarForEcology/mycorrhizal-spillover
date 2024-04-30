@@ -33,5 +33,8 @@ https://www.sciencedirect.com/science/article/pii/S1439179120301043
 Olson, Å., Aerts, A., Asiegbu, F., Belbahri, L., Bouzid, O., Broberg, A., Canbäck, B., Coutinho, P.M., Cullen, D., Dalman, K. and Deflorio, G., 2012. Insight into trade‐off between wood decay and parasitism from the genome of a fungal forest pathogen. New Phytologist, 194(4), pp.1001-1013. 
 https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-8137.2012.04128.x
 
+Phillips, R.P., Brzostek, E. and Midgley, M.G., 2013. The mycorrhizal‐associated nutrient economy: a new framework for predicting carbon–nutrient couplings in temperate forests. New Phytologist, 199(1), pp.41-51.
+https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.12221
+
 Smith, G.R., Finlay, R.D., Stenlid, J., Vasaitis, R. and Menkis, A., 2017. Growing evidence for facultative biotrophy in saprotrophic fungi: data from microcosm tests with 201 species of wood‐decay basidiomycetes. New Phytologist, 215(2), pp.747-755.
 https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.14551
