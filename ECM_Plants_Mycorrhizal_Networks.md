@@ -24,6 +24,8 @@ https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.1514
 Connell, J. H., & Lowman, M. D. (1989). Low-diversity tropical rain forests: some possible mechanisms for their existence. The American Naturalist, 134(1), 88-119.
 https://www.jstor.org/stable/pdf/2462277.pdf
 
+Delavaux, C. S., LaManna, J. A., Myers, J. A., Phillips, R. P., Aguilar, S., Allen, D., ... & Averill, C. (2023). Mycorrhizal feedbacks influence global forest structure and diversity. Communications Biology, 6(1), 1066. https://www.nature.com/articles/s42003-023-05410-z
+
 Eagar, A.C., Cosgrove, C.R., Kershner, M.W. and Blackwood, C.B., 2020. Dominant community mycorrhizal types influence local spatial structure between adult and juvenile temperate forest tree communities. Functional ecology, 34(12), pp.2571-2583.
 https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2435.13674
 
