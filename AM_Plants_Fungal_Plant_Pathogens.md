@@ -3,6 +3,9 @@ Eagar, A.C., Abu, P.H., Brown, M.A., Moledor, S.M., Smemo, K.A., Phillips, R.P.,
 Bahram, M., Netherway, T., Hildebrand, F., Pritsch, K., Drenkhan, R., Loit, K., Anslan, S., Bork, P. and Tedersoo, L., 2020. Plant nutrient‐acquisition strategies drive topsoil microbiome structure and function. New Phytologist, 227(4), pp.1189-1199.
 https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.16598
 
+Bever, J.D., Platt, T.G. and Morton, E.R., 2012. Microbial population and community dynamics on plant roots and their feedbacks on plant communities. Annual review of microbiology, 66, pp.265-283.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525954/
+
 Castano, C., Dejene, T., Mediavilla, O., Geml, J., Oria-de-Rueda, J.A. and Martin-Pinto, P., 2019. Changes in fungal diversity and composition along a chronosequence of Eucalyptus grandis plantations in Ethiopia. Fungal ecology, 39, pp.328-335.
 https://www.sciencedirect.com/science/article/pii/S175450481830374X
 
