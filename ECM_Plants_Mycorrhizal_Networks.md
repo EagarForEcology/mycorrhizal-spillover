@@ -3,6 +3,9 @@ Eagar, A.C., Abu, P.H., Brown, M.A., Moledor, S.M., Smemo, K.A., Phillips, R.P.,
 Agerer, R. (2001). Exploration types of ectomycorrhizae: a proposal to classify ectomycorrhizal mycelial systems according to their patterns of differentiation and putative ecological importance. Mycorrhiza, 11, 107-114.
 https://link.springer.com/content/pdf/10.1007/s005720100108.pdf
 
+Bever, J.D., Platt, T.G. and Morton, E.R., 2012. Microbial population and community dynamics on plant roots and their feedbacks on plant communities. Annual review of microbiology, 66, pp.265-283.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525954/
+
 Booth, M.G., 2004. Mycorrhizal networks mediate overstorey‐understorey competition in a temperate forest. Ecology Letters, 7(7), pp.538-546.
 https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1461-0248.2004.00605.x
 
