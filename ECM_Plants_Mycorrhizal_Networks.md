@@ -1,3 +1,4 @@
+Eagar, A.C., Abu, P.H., Brown, M.A., Moledor, S.M., Smemo, K.A., Phillips, R.P., Case, A.L., and Blackwood, C.B., In Review at Journal of Ecology. Setting the Stage for Plant-Soil Feedback: Mycorrhizal Influences over Conspecific Recruitment, Plant and Fungal Communities, and Coevolution.
 ![ECM_C](/docs/assets/ECM_Panel_C.png)
 Agerer, R. (2001). Exploration types of ectomycorrhizae: a proposal to classify ectomycorrhizal mycelial systems according to their patterns of differentiation and putative ecological importance. Mycorrhiza, 11, 107-114.
 https://link.springer.com/content/pdf/10.1007/s005720100108.pdf
