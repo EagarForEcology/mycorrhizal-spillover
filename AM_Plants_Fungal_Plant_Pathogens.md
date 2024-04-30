@@ -12,6 +12,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525954/
 Castano, C., Dejene, T., Mediavilla, O., Geml, J., Oria-de-Rueda, J.A. and Martin-Pinto, P., 2019. Changes in fungal diversity and composition along a chronosequence of Eucalyptus grandis plantations in Ethiopia. Fungal ecology, 39, pp.328-335.
 https://www.sciencedirect.com/science/article/pii/S175450481830374X
 
+Delavaux, C. S., LaManna, J. A., Myers, J. A., Phillips, R. P., Aguilar, S., Allen, D., ... & Averill, C. (2023). Mycorrhizal feedbacks influence global forest structure and diversity. Communications Biology, 6(1), 1066.
+https://www.nature.com/articles/s42003-023-05410-z
+
 Eagar, A.C., Mushinski, R.M., Horning, A.L., Smemo, K.A., Phillips, R.P. and Blackwood, C.B., 2022. Arbuscular mycorrhizal tree communities have greater soil fungal diversity and relative abundances of saprotrophs and pathogens than ectomycorrhizal tree communities. Applied and environmental microbiology, 88(1), pp.e01782-21.
 https://journals.asm.org/doi/pdf/10.1128/aem.01782-21
 
