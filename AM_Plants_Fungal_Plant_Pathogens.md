@@ -3,6 +3,9 @@ Eagar, A.C., Abu, P.H., Brown, M.A., Moledor, S.M., Smemo, K.A., Phillips, R.P.,
 Bahram, M., Netherway, T., Hildebrand, F., Pritsch, K., Drenkhan, R., Loit, K., Anslan, S., Bork, P. and Tedersoo, L., 2020. Plant nutrient‐acquisition strategies drive topsoil microbiome structure and function. New Phytologist, 227(4), pp.1189-1199.
 https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.16598
 
+Bennett, J.A., Maherali, H., Reinhart, K.O., Lekberg, Y., Hart, M.M. and Klironomos, J., 2017. Plant-soil feedbacks and mycorrhizal type influence temperate forest population dynamics. Science, 355(6321), pp.181-184.
+https://www.science.org/doi/full/10.1126/science.aai8212?casa_token=D-1_Tlo8VkMAAAAA:zEejgbtga7QUVcjQWLTCocwkohW4ewiN66F-31HTAfN3PKWIRkmZ9H5NR-PjW0T9POUV_adbRuK6vA
+
 Bever, J.D., Platt, T.G. and Morton, E.R., 2012. Microbial population and community dynamics on plant roots and their feedbacks on plant communities. Annual review of microbiology, 66, pp.265-283.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525954/
 
