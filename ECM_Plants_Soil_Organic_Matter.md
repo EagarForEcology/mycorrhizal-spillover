@@ -1,3 +1,5 @@
+Eagar, A.C., Abu, P.H., Brown, M.A., Moledor, S.M., Smemo, K.A., Phillips, R.P., Case, A.L., and Blackwood, C.B., In Review at Journal of Ecology. Setting the Stage for Plant-Soil Feedback: Mycorrhizal Influences over Conspecific Recruitment, Plant and Fungal Communities, and Coevolution. Draft available upon request.
+
 ![ECM_A](/docs/assets/ECM_Panel_A.png)
 Averill, C. and Hawkes, C.V., 2016. Ectomycorrhizal fungi slow soil carbon cycling. Ecology letters, 19(8), pp.937-947.
 https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.12631
