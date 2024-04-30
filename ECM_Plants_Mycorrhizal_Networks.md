@@ -24,6 +24,9 @@ https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.1514
 Connell, J. H., & Lowman, M. D. (1989). Low-diversity tropical rain forests: some possible mechanisms for their existence. The American Naturalist, 134(1), 88-119.
 https://www.jstor.org/stable/pdf/2462277.pdf
 
+Eagar, A.C., Cosgrove, C.R., Kershner, M.W. and Blackwood, C.B., 2020. Dominant community mycorrhizal types influence local spatial structure between adult and juvenile temperate forest tree communities. Functional ecology, 34(12), pp.2571-2583.
+https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2435.13674
+
 Eagar, A.C., Smemo, K.A., Phillips, R.P. and Blackwood, C.B., 2023. Context-dependence of fungal community responses to dominant tree mycorrhizal types in Northern hardwood forests. Soil Biology and Biochemistry, 178, p.108971.
 https://www.sciencedirect.com/science/article/pii/S0038071723000330
 
