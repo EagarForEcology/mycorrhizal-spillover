@@ -48,6 +48,9 @@ https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.14598
 Peng, Y., Yuan, J., Heděnec, P., Yue, K., Ni, X., Li, W., Wang, D., Yuan, C., Tan, S. and Wu, F., 2022. Mycorrhizal association and life form dominantly control plant litter lignocellulose concentration at the global scale. Frontiers in Plant Science, 13.
 https://www.frontiersin.org/articles/10.3389/fpls.2022.926941/full
 
+Phillips, R.P., Brzostek, E. and Midgley, M.G., 2013. The mycorrhizal‐associated nutrient economy: a new framework for predicting carbon–nutrient couplings in temperate forests. New Phytologist, 199(1), pp.41-51.
+https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.12221
+
 Revillini, D., Gehring, C.A. and Johnson, N.C., 2016. The role of locally adapted mycorrhizas and rhizobacteria in plant–soil feedback systems. Functional Ecology, 30(7), pp.1086-1098.
 https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2435.12668
 
