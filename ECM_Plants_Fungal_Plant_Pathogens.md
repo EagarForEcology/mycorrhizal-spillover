@@ -18,6 +18,9 @@ https://journals.asm.org/doi/pdf/10.1128/aem.01782-21
 Eagar, A.C., Smemo, K.A., Phillips, R.P. and Blackwood, C.B., 2023. Context-dependence of fungal community responses to dominant tree mycorrhizal types in Northern hardwood forests. Soil Biology and Biochemistry, 178, p.108971.
 https://www.sciencedirect.com/science/article/pii/S0038071723000330
 
+Edwards, J.D., Krichels, A.H., Seyfried, G.S., Dalling, J., Kent, A.D. and Yang, W.H., 2024. Soil microbial community response to ectomycorrhizal dominance in diverse neotropical montane forests. Mycorrhiza, 34(1), pp.95-105.
+https://link.springer.com/article/10.1007/s00572-023-01134-4
+
 LaManna, J.A., Walton, M.L., Turner, B.L. and Myers, J.A., 2016. Negative density dependence is stronger in resource‐rich environments and diversifies communities when stronger for common but not rare species. Ecology Letters, 19(6), pp.657-667.
 https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.12603
 
